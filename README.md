@@ -5,12 +5,10 @@ Welcome to my collection of data science projects! This repository contains vari
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Project List](#project-list)
-3. [Technologies Used](#technologies-used)
-4. [Installation Instructions](#installation-instructions)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
+2. [Technologies Used](#technologies-used)
+3. [Installation Instructions](#installation-instructions)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
 
 ---
 
