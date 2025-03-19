@@ -6,3 +6,4 @@ imblearn
 seaborn
 openpyxl
 statsmodels
+plotly
