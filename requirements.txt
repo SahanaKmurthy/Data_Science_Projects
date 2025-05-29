@@ -9,3 +9,6 @@ statsmodels
 plotly
 xgboost
 kneed
+tensorflow==2.15.0
+tensorboard
+streamlit
