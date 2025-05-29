@@ -12,3 +12,4 @@ kneed
 tensorflow-cpu==2.15.0
 tensorboard
 streamlit
+pillow
