@@ -2,13 +2,13 @@ scikit-learn
 pandas
 numpy
 matplotlib
-imblearn
+imbalanced-learn
 seaborn
 openpyxl
 statsmodels
 plotly
 xgboost
 kneed
-tensorflow==2.15.0
+tensorflow-cpu==2.15.0
 tensorboard
 streamlit
