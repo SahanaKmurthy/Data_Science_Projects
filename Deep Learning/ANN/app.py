@@ -4,6 +4,7 @@ import tensorflow as tf
 from sklearn.preprocessing import StandardScaler, OneHotEncoder, LabelEncoder
 import pandas as pd 
 import pickle 
+import os
 
 # Get current script directory
 dir_path = os.path.dirname(os.path.realpath(__file__))
