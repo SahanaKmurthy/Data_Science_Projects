@@ -5,8 +5,11 @@ from sklearn.preprocessing import StandardScaler, OneHotEncoder, LabelEncoder
 import pandas as pd 
 import pickle 
 
+# Get current script directory
+dir_path = os.path.dirname(os.path.realpath(__file__))
+
 # Load the trained model
-model = tf.keras.models.load_model('Deep Learning/ANN/model.h5')
+model = tf.keras.models.load_model(os.path.join(dir_path, 'model.h5'))
 
 # Load encoders and scaler
 with open ('label_encoder_gender.pkl' , 'rb') as file:
